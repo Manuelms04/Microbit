@@ -4,7 +4,7 @@ ACTIVIDAD 1:
 
 ![image](ejercicio1.png)
 
-- [Enlace](Contenidos/microbit-Modulo1_Ejercicio1.hex)
+- [Enlace1](Contenidos/microbit-Modulo1_Ejercicio1.hex)
 
 
 ACTIVIDAD 2: 
@@ -13,7 +13,7 @@ ACTIVIDAD 2:
 
 ![image](ejercicio2.png)
 
-- [Enlace](Contenidos/microbit-Modulo1_Ejercicio2.hex)
+- [Enlace2](Contenidos/microbit-Modulo1_Ejercicio2.hex)
 
 
 ACTIVIDAD 3:
@@ -22,4 +22,4 @@ ACTIVIDAD 3:
 
 ![image](ejercicio3.png)
 
-- [Enlace](Contenidos/microbit-Modulo1_Ejercicio3.hex)
+- [Enlace3](Contenidos/microbit-Modulo1_Ejercicio3.hex)
