@@ -4,6 +4,8 @@ ACTIVIDAD 1:
 
 ![image](ejercicio1.png)
 
+- [Enlace](Contenidos/)
+
 
 ACTIVIDAD 2: 
 
@@ -11,9 +13,13 @@ ACTIVIDAD 2:
 
 ![image](ejercicio2.png)
 
+- [Enlace](Contenidos/)
+
 
 ACTIVIDAD 3:
 
 - Diseña tu propio programa para que la Micro:bit muestre en la pantalla un icono si es agitado. Para ello te sugerimos seguir las siguientes indicaciones:
 
 ![image](ejercicio3.png)
+
+- [Enlace](Contenidos/)
