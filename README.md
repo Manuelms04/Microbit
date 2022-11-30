@@ -18,5 +18,10 @@
 
 ## Autores
 
+- Carlos Díaz Jiménez
+- Manuel Moreno Sosa 
+
 ## Licencia
+
+- ![image](Contenidos/licencia.png)
 
