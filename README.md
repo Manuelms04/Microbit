@@ -23,5 +23,5 @@
 
 ## Licencia
 
-- ![image](Contenidos/licencia.png)
+![image](Contenidos/licencia.png)
 
