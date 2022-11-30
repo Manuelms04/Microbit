@@ -4,7 +4,7 @@ ACTIVIDAD 1:
 
 ![image](ejercicio1.png)
 
-- [Enlace1](Contenidos/microbit-Modulo1_Ejercicio1.hex)
+- [Enlace1](microbit-Modulo1_Ejercicio1.hex)
 
 
 ACTIVIDAD 2: 
