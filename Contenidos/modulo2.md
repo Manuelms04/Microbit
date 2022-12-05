@@ -13,7 +13,7 @@ convertir nuestra animación en un dado.
 
 ![image](M2_ejercicio2.png)
 
-- [Enlace1](microbit-Modulo2_Ejercicio2.hex)
+- [Enlace2](microbit-Modulo2_Ejercicio2.hex)
 
 
 ACTIVIDAD 3: 
@@ -22,4 +22,4 @@ una melodía al presionar el botón A.
 
 ![image](M2_ejercicio3.png)
 
-- [Enlace1](microbit-Modulo2_Ejercicio3.hex)
+- [Enlace3](microbit-Modulo2_Ejercicio3.hex)
