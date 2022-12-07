@@ -18,8 +18,8 @@
 
 ## Autores
 
-- Carlos Díaz Jiménez
-- Manuel Moreno Sosa 
+- Manuel Moreno Sosa
+- Carlos Diaz Jimenez
 
 ## Licencia
 
